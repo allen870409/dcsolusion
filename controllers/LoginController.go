@@ -2,7 +2,7 @@ package controllers
 import (
 	"github.com/astaxie/beego"
 	"crypto/md5"
-	"dcsolusion/models"
+	"github.com/allen870409/dcsolusion/models"
 	"encoding/hex"
 	"net/http"
 	"fmt"
