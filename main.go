@@ -6,8 +6,8 @@ import (
 	"github.com/astaxie/beego/config"
 	"github.com/astaxie/beego/orm"
 	_ "github.com/go-sql-driver/mysql"
-	"dcsolusion/controllers"
-	"dcsolusion/models"
+	"github.com/allen870409/dcsolusion/controllers"
+	"github.com/allen870409/dcsolusion/models"
 )
 
 const (
