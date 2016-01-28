@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	configPath = "conf/app.conf"
+	configPath = "github.com/allen870409/dcsolusion/conf/app.conf"
 	db         = "mysql"
 )
 
