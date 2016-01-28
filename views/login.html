@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<form action="login" method="post">
+    ユーザー名: <input type="text" name="username">
+    パスワード: <input type="password" name="password">
+    <input type="submit" value="ログイン">
+</form>
+{{if .login_err}}
+<h4 style="color:red">ユーザー名、あるいは、パスワードが間違っています</h4>
+{{end}}
+</body>
+</html>

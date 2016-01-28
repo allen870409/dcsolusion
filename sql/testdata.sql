@@ -1,0 +1,1 @@
+insert  into `admin_user`(`id`,`name`,`password`) values (-1,'admin','21232f297a57a5a743894a0e4a801fc3'),(-1,'test','098f6bcd4621d373cade4e832627b4f6'),(-1,'sasaki_daisuke_gn','06b9fe2209dd147618f9c9e13c4ba609'),(-1,'azuma_kazuhiro','798f9db6860694ddbe0e0bd8aac953db');
